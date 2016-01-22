@@ -1,6 +1,6 @@
 /*!
- * IFrameActivationListener JavaScript Library v1.0
- * https://github.com/SammySoft/IFrameActivationListener
+ * iframeActivationListener JavaScript Library v1.0
+ * https://github.com/SammySoft/iframeActivationListener
  *
  *
  * Copyright 2016 SammySoft
@@ -31,7 +31,7 @@
  */
 (function ($)
 {
-	var IFrameActivationListener = function () {
+	var iframeActivationListener = function () {
 		'use strict';
 
 		var
@@ -101,7 +101,7 @@
 		};
 	}();
 	$.fn.extend({
-		IFrameActivationListener: IFrameActivationListener.startListening,
-		IFrameActivationListenerStop: IFrameActivationListener.stopListening
+		iframeActivationListener: iframeActivationListener.startListening,
+		iframeActivationListenerStop: iframeActivationListener.stopListening
 	});
 })(jQuery);
