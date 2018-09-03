@@ -8,7 +8,7 @@
  *
  * Date: Fri Jan 21 2016 20:00:00 GMT+01:00
  * 
- * Copyright (c) 2016 SammySoft
+ * Copyright (c) 2016 BergenSoft
  * 
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
