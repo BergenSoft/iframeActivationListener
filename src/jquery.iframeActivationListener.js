@@ -1,6 +1,6 @@
 /*!
  * iframeActivationListener JavaScript Library v1.0
- * https://github.com/SammySoft/iframeActivationListener
+ * https://github.com/BergenSoft/iframeActivationListener
  *
  *
  * Copyright 2016 BergenSoft
@@ -8,7 +8,6 @@
  *
  * Date: Fri Jan 21 2016 20:00:00 GMT+01:00
  * 
- * Copyright (c) 2016 BergenSoft
  * 
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
