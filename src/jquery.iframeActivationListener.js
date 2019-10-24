@@ -3,7 +3,7 @@
  * https://github.com/SammySoft/iframeActivationListener
  *
  *
- * Copyright 2016 SammySoft
+ * Copyright 2016 BergenSoft
  * Released under the MIT license
  *
  * Date: Fri Jan 21 2016 20:00:00 GMT+01:00
